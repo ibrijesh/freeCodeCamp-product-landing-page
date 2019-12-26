@@ -1,1 +1,1 @@
-"# freeCodeCamp-produc-landing-page" 
+"# freeCodeCamp-product-landing-page" 
